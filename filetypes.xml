@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="dummy" type="JavaScript" />
+      <mapping pattern="com" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
+      <mapping pattern="dummy" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
