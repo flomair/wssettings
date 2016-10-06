@@ -5,6 +5,7 @@
       <mapping pattern="com" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="dummy" type="JavaScript" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
