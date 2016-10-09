@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="config.json" type="JSON" />
-      <mapping pattern="dummy" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="com" type="JavaScript" />
+      <mapping pattern="dummy" type="JavaScript" />
+      <mapping ext="browserify" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
