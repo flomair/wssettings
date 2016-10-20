@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[gulp-excelsheets2json] - ...\test\02_InitResp.js'" />
-    <option name="defaultScopeName" value="File '[gulp-excelsheets2json] - ...\test\02_InitResp.js'" />
-    <option name="SEARCH_SCOPE" value="File '[gulp-excelsheets2json] - ...\test\02_InitResp.js'" />
+    <option name="customScope" value="all" />
+    <option name="defaultScopeName" value="all" />
+    <option name="SEARCH_SCOPE" value="all" />
   </component>
 </application>
