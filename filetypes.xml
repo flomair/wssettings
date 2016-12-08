@@ -8,6 +8,7 @@
       <mapping pattern="com" type="JavaScript" />
       <mapping ext="browserify" type="JavaScript" />
       <mapping ext="jsno" type="JavaScript" />
+      <mapping ext="tmpl" type="Native" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
