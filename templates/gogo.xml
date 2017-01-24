@@ -1,5 +1,6 @@
 <templateSet group="gogo">
-  <template name="wertzu" value="&lt;div&gt;&lt;/div&gt;" description="sltdufziGUOfzidöt" toReformat="true" toShortenFQNames="true">
+  <template name="wertzu" value="import React, {&#10;  Component,&#10;  PropTypes,&#10;} from 'react';&#10;&#10;class $COMPONENT$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};" description="sltdufziGUOfzidöt" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
