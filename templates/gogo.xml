@@ -1,0 +1,7 @@
+<templateSet group="gogo">
+  <template name="wertzu" value="&lt;div&gt;&lt;/div&gt;" description="sltdufziGUOfzidöt" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
