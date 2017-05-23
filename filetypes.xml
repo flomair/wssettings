@@ -13,6 +13,7 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping ext="note" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
