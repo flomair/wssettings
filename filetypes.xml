@@ -11,6 +11,7 @@
       <mapping ext="browserify" type="JavaScript" />
       <mapping ext="tmpl" type="Native" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping ext="note" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
