@@ -1,34 +1,33 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="config.json" type="JSON" />
       <mapping pattern="dummy" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="com" type="JavaScript" />
-      <mapping ext="browserify" type="JavaScript" />
-      <mapping ext="test" type="JavaScript" />
       <mapping ext="jsno" type="JavaScript" />
+      <mapping ext="test" type="JavaScript" />
       <mapping ext="gz" type="JavaScript" />
-      <mapping ext="ttf" type="Native" />
+      <mapping ext="browserify" type="JavaScript" />
       <mapping ext="tmpl" type="Native" />
+      <mapping ext="ttf" type="Native" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
+      <mapping ext="note" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
-      <mapping ext="note" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
