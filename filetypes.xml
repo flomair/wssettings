@@ -13,6 +13,7 @@
       <mapping ext="tmpl" type="Native" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="babel-node" type="PLAIN_TEXT" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
