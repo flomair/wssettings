@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="config.json" type="JSON" />
+      <mapping ext="json5" type="JSON" />
       <mapping pattern="dummy" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="com" type="JavaScript" />
