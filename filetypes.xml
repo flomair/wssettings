@@ -20,6 +20,7 @@
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="babel-node" type="PLAIN_TEXT" />
       <mapping pattern="downright.svg" type="PLAIN_TEXT" />
+      <mapping pattern="scenesList" type="PLAIN_TEXT" />
       <mapping ext="vti" type="PLAIN_TEXT" />
       <mapping ext="note" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
