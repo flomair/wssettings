@@ -3,34 +3,35 @@
     <extensionMap>
       <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="config.json" type="JSON" />
-      <mapping pattern="dummy" type="JavaScript" />
-      <mapping pattern="index" type="JavaScript" />
       <mapping pattern="com" type="JavaScript" />
-      <mapping ext="jsno" type="JavaScript" />
-      <mapping ext="test" type="JavaScript" />
-      <mapping ext="gz" type="JavaScript" />
+      <mapping pattern="index" type="JavaScript" />
+      <mapping pattern="dummy" type="JavaScript" />
       <mapping ext="browserify" type="JavaScript" />
-      <mapping ext="tmpl" type="Native" />
+      <mapping ext="test" type="JavaScript" />
+      <mapping ext="jsno" type="JavaScript" />
+      <mapping ext="gz" type="JavaScript" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="tmpl" type="Native" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="124" type="PLAIN_TEXT" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="7" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
+      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping pattern="png2vti" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="babel-node" type="PLAIN_TEXT" />
-      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping pattern="scenesList" type="PLAIN_TEXT" />
       <mapping pattern="127" type="PLAIN_TEXT" />
+      <mapping pattern="124" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping ext="vti" type="PLAIN_TEXT" />
-      <mapping ext="note" type="PLAIN_TEXT" />
-      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="scn" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
+      <mapping ext="scn" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="note" type="PLAIN_TEXT" />
       <mapping pattern="15" type="PROTO" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
