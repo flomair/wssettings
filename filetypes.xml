@@ -5,6 +5,7 @@
       <mapping pattern="config.json" type="JSON" />
       <mapping pattern="com" type="JavaScript" />
       <mapping pattern="index" type="JavaScript" />
+      <mapping pattern="getSchemas" type="JavaScript" />
       <mapping pattern="dummy" type="JavaScript" />
       <mapping ext="browserify" type="JavaScript" />
       <mapping ext="test" type="JavaScript" />
@@ -14,7 +15,7 @@
       <mapping ext="tmpl" type="Native" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="7" type="PLAIN_TEXT" />
-      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping pattern="png2vti" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="babel-node" type="PLAIN_TEXT" />
@@ -22,7 +23,7 @@
       <mapping pattern="127" type="PLAIN_TEXT" />
       <mapping pattern="124" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
+      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping ext="vti" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
