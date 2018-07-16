@@ -16,7 +16,7 @@
       <mapping ext="py" type="Native" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="7" type="PLAIN_TEXT" />
-      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping pattern="png2vti" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="babel-node" type="PLAIN_TEXT" />
@@ -24,7 +24,7 @@
       <mapping pattern="127" type="PLAIN_TEXT" />
       <mapping pattern="124" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
+      <mapping pattern="downright.svg" type="PLAIN_TEXT" />
       <mapping ext="vti" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
@@ -32,7 +32,6 @@
       <mapping ext="scn" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="note" type="PLAIN_TEXT" />
       <mapping pattern="15" type="PROTO" />
       <mapping ext="fnc" type="DBN-PSQL" />
